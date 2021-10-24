@@ -12,12 +12,12 @@ Lobbi is able to create an estimated wait time through the data they gather as t
 
 In addition to improving the waiting experience for customers, Lobbi will also provide feedback to the company on how to improve their customer support through analysis on the retention rate and quality of service. Through Lobbi, customers know exactly how long it would take to contact an employee, making them less likely to exit out of the hotline. Through the improved retention of customers, companies are able to reach more customers and improve their customer service. 
 
-** Key Points **
+**Key Points**
 - Lobbi is created for businesses who want to optimize their customer service support and improve their connection with customers. 
 - Utilizing Lobbi can improve a company's retention of customers on the service line. 
 - Lobbi can use data collected from a company in order to estimate wait times, as well as give feedback on how to improve their customer service.
 
-** Future Directions **
+**Future Directions**
 - We're exploring methods to use machine learning to assess the urgency level of each customer to effectively prioritize and order customers as they wait for a representative. 
 - We are planning on including extra questions to provide additional data in order to create a more thorough process and for customers to directly interact with companies. 
 - We are looking into adding more features to keep the customer engaged and provide access to the company's resources and offers. 
